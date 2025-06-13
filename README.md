@@ -1,2 +1,21 @@
-# Digital-logic
-this menu-driven app simulates key digital electronics operations. It generates truth tables for 7 logic gates, performs binary arithmetic (addition, 1’s/2’s complement), demonstrates half/full adder circuits, and handles decimal-binary conversions using bitwise operators—ideal for learning digital logic.
+# 🔌 Digital Electronics Simulator (C++)
+
+This interactive, menu-driven console application simulates core digital electronics operations and basic computer arithmetic concepts. Designed for students and enthusiasts, it offers hands-on experience with logic gates, binary operations, adder circuits, and conversions between number systems.
+
+## 🧠 Features
+
+- ✅ Truth table generation for **7 logic gates**:
+  - AND, OR, NOT, NAND, NOR, XOR, XNOR
+- ➕ Binary arithmetic operations:
+  - Binary Addition
+  - One's Complement
+  - Two's Complement
+- 🧮 Adder circuit simulation:
+  - Half Adder
+  - Full Adder
+- 🔄 Number system conversions:
+  - Decimal to Binary
+  - Binary to Decimal
+
+## 📋 Menu Options
+
