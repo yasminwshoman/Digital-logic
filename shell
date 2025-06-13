@@ -1,0 +1,12 @@
+
+## 🚀 Getting Started
+
+### Prerequisites
+- A C++ compiler (e.g. GCC, Clang, or MSVC)
+- C++11 or later
+
+### How to Compile
+
+```bash
+g++ -o digital_simulator main.cpp
+./digital_simulator
